@@ -22,6 +22,19 @@ https://cdn.bsinfox.com/tier/39000000/16000000.png
 
 https://cdn.bsinfox.com/brawlers/skins/29000000.png
 
+If you want to serve lighter image files, supported image assets can also be requested as `.webp`
+by replacing the `.png` extension with `.webp`.
+
+Examples:
+
+https://cdn.bsinfox.com/fame/alien.webp
+
+https://cdn.bsinfox.com/tier/39000000/16000000.webp
+
+https://cdn.bsinfox.com/brawlers/skins/29000000.webp
+
+The original `.png` URLs remain available as well.
+
 ## Notes
 
 This CDN is intended to be used together with the Brawl Stars API, the BSInfo API, and related services.
