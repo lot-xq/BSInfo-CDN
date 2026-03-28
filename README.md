@@ -1,27 +1,72 @@
 # BSInfo CDN
-BSInfo CDN is operated and maintained by the developers of BSInfo (https://bsinfox.com).
 
-There is also the BSInfo API (https://api.bsinfox.com/dev), and this CDN is designed to be compatible with the Brawl Stars API, the BSInfo API, and other APIs. (Please note that it is not compatible with all APIs.)
+BSInfo CDN is an unofficial asset CDN maintained by the developers of [BSInfo](https://bsinfox.com).
+It is intended to support the delivery of assets used in projects related to the [Brawl Stars API](https://developer.brawlstars.com/), the [BSInfo API](https://api.bsinfox.com/dev), and similar services.
+Compatibility with all third-party APIs or implementations is not guaranteed.
 
-## How to use
+## Usage
 
-## PR
-Please feel free to submit a pull request if you would like to add or modify assets in the BSInfo CDN.
+Assets are served through category-based paths.
 
-When doing so, please ensure that you have correctly assigned IDs and other necessary information. If that is difficult, please contact us via our Discord server first, and we will add them with the appropriate IDs for you.
+Format:
+
+`https://cdn.bsinfox.com/{category}/{id}`
+
+Please ensure that the correct asset IDs and paths are used in your implementation.
+
+Examples:
+
+`https://cdn.bsinfox.com/fame/alien.png`
+`https://cdn.bsinfox.com/tier/39000000/16000000.png`
+`https://cdn.bsinfox.com/brawlers/skins/29000000.png`
+
+## Notes
+
+This CDN is intended to be used together with the Brawl Stars API, the BSInfo API, and related services.
+Because of that, some assets, IDs, filenames, or paths may be expected to remain consistent for compatibility reasons.
+
+For example, fame-related data is linked to `https://api.bsinfox.com/fame`.
+For more information about the BSInfo API, please see `https://api.bsinfox.com/dev`.
+
+Please also note that newly added or updated assets may not always be available immediately after a game update.
+
+When using this CDN or its assets, please make sure your use complies with Supercell's policies, including the following:
+
+- [Supercell Fan Content Policy](https://supercell.com/en/fan-content-policy/)
+- [Supercell Terms of Service](https://supercell.com/en/terms-of-service/)
+
+## Contributing
+
+Pull requests for adding or updating assets are welcome.
+
+Before submitting a pull request, please verify that:
+
+- the asset belongs to the correct category
+- the ID is accurate
+- the file naming is correct
+- the asset corresponds to the intended resource
+
+If you are unsure, please contact us through Discord before submitting changes.
+
+## Credit
+
+Credit is appreciated, but not required.
+If you would like to provide credit, a link to BSInfo CDN, this repository, or something similar is enough.
 
 ## Credits
-Kosuke
-X : https://x.com/LMDKosuke
-Web : https://brawlinsights.com/
 
-Thank you for your cooperation in improving the CDN!
+**Kosuke**
+X: [@LMDKosuke](https://x.com/LMDKosuke)
+Web: [brawlinsights.com](https://brawlinsights.com/)
 
 ## Contact
-If you have any inquiries or requests, please contact us via this Discord server.
-https://discord.com/invite/85bQwpWUB2
 
-## Disclaimers
-This CDN is operated by an individual. Because of this, while I strive to make new assets available as soon as possible after an update, there may be times when assets cannot be added immediately due to circumstances.
+If you have any questions or requests, please contact us through this Discord server.
+Discord: [https://discord.com/invite/85bQwpWUB2](https://discord.com/invite/85bQwpWUB2)
 
-This material is unofficial and is not endorsed by Supercell. For more information see Supercell's Fan Content Policy: www.supercell.com/fan-content-policy.
+## Disclaimer
+
+This CDN is operated independently and may not always be updated immediately after game updates.
+The assets listed here are either collected from game files or sourced from the Supercell Fankit.
+
+This material is unofficial and is not endorsed by Supercell. For more information, see Supercell's Fan Content Policy: www.supercell.com/fan-content-policy.
