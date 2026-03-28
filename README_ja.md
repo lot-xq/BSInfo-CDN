@@ -17,7 +17,9 @@ BSInfo CDN は、[BSInfo](https://bsinfox.com) の開発者によって管理・
 例:
 
 https://cdn.bsinfox.com/fame/alien.png
+
 https://cdn.bsinfox.com/tier/39000000/16000000.png
+
 https://cdn.bsinfox.com/brawlers/skins/29000000.png
 
 ## Notes
