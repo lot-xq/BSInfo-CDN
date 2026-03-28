@@ -16,9 +16,9 @@ Please ensure that the correct asset IDs and paths are used in your implementati
 
 Examples:
 
-`https://cdn.bsinfox.com/fame/alien.png`
-`https://cdn.bsinfox.com/tier/39000000/16000000.png`
-`https://cdn.bsinfox.com/brawlers/skins/29000000.png`
+https://cdn.bsinfox.com/fame/alien.png
+https://cdn.bsinfox.com/tier/39000000/16000000.png
+https://cdn.bsinfox.com/brawlers/skins/29000000.png
 
 ## Notes
 
