@@ -4,6 +4,11 @@ BSInfo CDN は、[BSInfo](https://bsinfox.com) の開発者によって管理・
 この CDN は、[Brawl Stars API](https://developer.brawlstars.com/)、[BSInfo API](https://api.bsinfox.com/dev)、およびそれに関連するサービスで使用されるアセットの配信を目的としています。
 ただし、すべてのサードパーティ API や実装との互換性を保証するものではありません。
 
+制作者についての情報
+X: [@lot_xq](https://x.com/lot_xq)
+X: [@BSInfoX](https://x.com/BSInfoX)
+Web: [bsinfox.com](https://bsinfox.com/)
+
 ## Usage
 
 アセットはカテゴリごとのパスで配信されています。

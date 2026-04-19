@@ -4,6 +4,11 @@ BSInfo CDN is an unofficial asset CDN maintained by the developers of [BSInfo](h
 It is intended to support the delivery of assets used in projects related to the [Brawl Stars API](https://developer.brawlstars.com/), the [BSInfo API](https://api.bsinfox.com/dev), and similar services.
 Compatibility with all third-party APIs or implementations is not guaranteed.
 
+Information about the creator
+X: [@lot_xq](https://x.com/lot_xq)
+X: [@BSInfoX](https://x.com/BSInfoX)
+Web: [bsinfox.com](https://bsinfox.com/)
+
 ## Usage
 
 Assets are served through category-based paths.
