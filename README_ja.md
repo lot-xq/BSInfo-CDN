@@ -70,7 +70,7 @@ PR を送る前に、以下を確認してください。
 
 ## Credits
 
-**Kosuke**
+**Kosuke** - brawler/skin
 X: [@LMDKosuke](https://x.com/LMDKosuke)
 Web: [brawlinsights.com](https://brawlinsights.com/)
 

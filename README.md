@@ -70,7 +70,7 @@ If you would like to provide credit, a link to BSInfo CDN, this repository, or s
 
 ## Credits
 
-**Kosuke**
+**Kosuke** - brawler/skin
 X: [@LMDKosuke](https://x.com/LMDKosuke)
 Web: [brawlinsights.com](https://brawlinsights.com/)
 
