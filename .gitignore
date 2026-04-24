@@ -2,3 +2,10 @@
 settings_GUI.py
 settings_GUI.state.json
 webp/
+skins.json
+spray.json
+emote.json
+check_missing_assets.py
+trim_padding.py
+player_thumbnail.json
+rename_temp_assets.py
