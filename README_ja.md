@@ -50,13 +50,28 @@ BSInfo API に関する詳細は、`https://api.bsinfox.com/dev` をご確認く
 
 また、ゲームのアップデート後に追加・更新されるアセットが、すぐに反映されない場合があります。
 
-アセットのサイズに関して
-ガジェット、スターパワー、ハイパーチャージは256x??のサイズで統一されています。
 
 この CDN やそのアセットを利用する場合は、以下を含む Supercell のポリシーを必ず遵守してください。
 
 - [Supercell Fan Content Policy](https://supercell.com/en/fan-content-policy/)
 - [Supercell Terms of Service](https://supercell.com/en/terms-of-service/)
+
+## Assets rule
+統一性を持たせるためにアセットのサイズに規定を設けます。
+
+256x??
+gadgets
+gadgets/buffies
+starpowers
+starpowers/buffies
+hypercharges
+hypercharges/buffies
+modifiers
+
+1024x1024
+brawlers/small
+brawlers/border
+brawlers/borderless
 
 ## Contributing
 
